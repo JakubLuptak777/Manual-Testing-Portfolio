@@ -28,7 +28,7 @@ Príprava podrobných krokov pre testovanie webových aplikácií (napr. e-shopy
 
 ### 🐞 Reporty o chybách (Bug Reports)
 Ukážky toho, ako efektívne a jasne nahlasujem nájdené chyby programátorom.
-* [Zobraziť nájdené chyby](./Bug_Reporty/)
+* [Zobraziť nájdené chyby](Bug_report_login_mobile.md)
 
 ### 📊 Databázy (SQL)
 Príklady príkazov, ktoré používam na kontrolu dát priamo v databáze.
