@@ -1,6 +1,6 @@
-# Portfólio QA Testera | [Tvoje Meno a Priezvisko]
+# Portfólio QA Testera | Jakuba Luptáka
 
-Vitajte v mojom portfóliu. Zameriavam sa na kvalitu softvéru, manuálne testovanie a analýzu chýb. Som pripravený na prácu v IT tímoch v Banskej Bystrici.
+Vitajte v mojom portfóliu. Zameriavam sa na kvalitu softvéru, manuálne/automatizované testovanie a analýzu chýb. Som pripravený na prácu v IT tímoch v Banskej Bystrici.
 
 ---
 
