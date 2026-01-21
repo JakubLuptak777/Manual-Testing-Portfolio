@@ -24,7 +24,7 @@ Vitajte v mojom portfóliu. Zameriavam sa na kvalitu softvéru, manuálne testov
 
 ### 📄 Testovacie scenáre
 Príprava podrobných krokov pre testovanie webových aplikácií (napr. e-shopy, registračné formuláre).
-* [Zobraziť dokumentáciu](Test_cases_ligin.md)
+* [Zobraziť dokumentáciu](Test_cases_login.md)
 
 ### 🐞 Reporty o chybách (Bug Reports)
 Ukážky toho, ako efektívne a jasne nahlasujem nájdené chyby programátorom.
